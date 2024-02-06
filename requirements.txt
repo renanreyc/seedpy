@@ -1,0 +1,11 @@
+# conexão
+pyodbc
+python-dotenv
+
+# data
+pandas
+numpy
+pyxlsb
+
+# generative data
+Faker
